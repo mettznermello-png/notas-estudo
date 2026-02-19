@@ -1,8 +1,6 @@
 # notas-estudo
 Minhas notas de estudos do tec SENAC 2026
 
-markdown
-
 ## Configurando o GIT
 
 Codes Needed to change the PC:
