@@ -8,7 +8,8 @@ markdown
 Codes Needed to change the PC:
 
 ```bash
-git config --global
+git config --global user.name
+git config --global user.email
 ```
 ```bash
 git –version
@@ -34,3 +35,7 @@ eval “$(ssh-agent -s)”
 ssh-add ~/.ssh/id_ed25519
 clip <~/.ssh/id_ed25519.pub
 ```
+
+## codes to use on diary day sunny day
+
+control + K + O: open the "open folder"
