@@ -38,4 +38,6 @@ clip <~/.ssh/id_ed25519.pub
 
 ## codes to use on diary day sunny day
 
+```bash
 control + K + O: open the "open folder"
+```
