@@ -20,6 +20,11 @@ git config –global user.email “mettznermello@gmail.com”
 ```bash
 Go to the site on Google Chrome "Github" open the charecter
 Go through to "New" and then repositerie
+Put on public always
+Turn on README.md
+wait to the paste apear
+open the Git Bash
+put the code "cd Doc *tab*" The initias of the paste *tab*
 ```
 
 ## How to create a key on Github
